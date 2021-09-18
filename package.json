@@ -1,11 +1,22 @@
 {
-    "name": "Siiar",
-    "version": "1.0.0",
-    "description": "Wisteria's Workshop Test Bot",
-    "main": "bot.js",
-    "author": "Wisteria",
-    "dependencies": {
-        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-        "winston": "^3.3.3"
-    }
+  "name": "siiar",
+  "version": "1.0.0",
+  "description": "Wysteir's Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wysteir/Siiar.git"
+  },
+  "author": "Wysteir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wysteir/Siiar/issues"
+  },
+  "homepage": "https://github.com/Wysteir/Siiar#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
